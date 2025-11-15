@@ -1,16 +1,79 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**pvaugustoAI/pvaugustoAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, me chamo Pedro!  
 
-Here are some ideas to get you started:
+## 🔹 Áreas de Atuação
+Machine Learning • Computer Vision • Robotics • Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Linguagens & Ferramentas Principais
+Python • R • C • C++ • Java • JavaScript • Julia • MATLAB  
+TensorFlow • PyTorch • Keras • Pandas • NumPy • OpenCV • Docker • Git  
+
+## 🔹 Hardware & IoT
+Arduino • Raspberry Pi  
+
+</p>
+
+---
+
+## 🔹 Tecnologias
+<p align="center">
+
+<!-- Linguagens -->
+<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="R" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+<img alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img alt="Julia" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
+<img alt="MATLAB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+
+<!-- Frameworks e libs -->
+<img alt="TensorFlow" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+<img alt="PyTorch" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+<img alt="Keras" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">
+<img alt="Pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+<img alt="NumPy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+<img alt="OpenCV" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+
+<!-- Docker + Git -->
+<img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+<!-- Hardware -->
+<img alt="Arduino" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<img alt="Raspberry Pi" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+
+</p>
+
+---
+
+## 🔹 Contato
+<p align="center">
+
+<a href="mailto:pedroaugustoeng.github@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/157753287" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/seu-usuario" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/aipvaugusto/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/channel/UCBAKoqnmI_WpSAySSCwAXpA" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://discord.gg/Ej7KxA5n" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</p>

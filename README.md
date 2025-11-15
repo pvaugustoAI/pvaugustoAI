@@ -1,6 +1,6 @@
 <p align="center">
 
-# 👋 Olá, me chamo Pedro!  
+# 👋 Olá, me chamo Pedro Augusto!  
 
 ## 🔹 Áreas de Atuação
 Machine Learning • Computer Vision • Robotics • Data Science
@@ -74,6 +74,10 @@ Arduino • Raspberry Pi
 
 <a href="https://discord.gg/Ej7KxA5n" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://wa.me/qr/DTCLJQHCMGJDC1" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </p>

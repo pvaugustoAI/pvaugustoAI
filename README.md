@@ -148,8 +148,3 @@ Projetos Criativos com Robótica EMBRAPII/AKCIT 2025 ✅ Concluído
 <p align="center">
   <i>✨ "A Inteligência Artificial não substituirá humanos, mas humanos com IA substituirão humanos sem IA." ✨</i>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-</p>
-```

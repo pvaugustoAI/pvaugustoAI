@@ -83,84 +83,19 @@ me = AI_Engineer()
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
-
-📈 Nível de Proficiência
-
-Machine Learning & AI
-
-Tecnologia Nível Projetos
-Python ⭐⭐⭐⭐⭐ 15+ projetos
-TensorFlow ⭐⭐⭐⭐☆ Redes Neurais, CNN, RNN
-PyTorch ⭐⭐⭐☆☆ Modelos personalizados
-OpenCV ⭐⭐⭐⭐☆ Processamento de imagem
-Scikit-learn ⭐⭐⭐⭐⭐ Algoritmos clássicos
-
-Engenharia & DevOps
-
-Tecnologia Nível Experiência
-Docker ⭐⭐⭐⭐☆ Containerização de modelos
-FastAPI ⭐⭐⭐☆☆ APIs para modelos ML
-Git/GitHub ⭐⭐⭐⭐⭐ Versionamento e CI/CD
-AWS/GCP ⭐⭐☆☆☆ Deploy em nuvem
-SQL ⭐⭐⭐⭐☆ Banco de dados relacionais
-
----
-
-🏆 Projetos em Destaque
-
-1. 🎯 Sistema de Detecção de Objetos em Tempo Real
-
-Tecnologias: Python, OpenCV, YOLO, TensorFlow
-Descrição: Desenvolvimento de um sistema de detecção de objetos utilizando YOLOv5 para reconhecimento em tempo real com acurácia de 92%.
-🔗 Ver Repositório | 📄 Ver Documentação
-
-2. 🧠 Classificação de Imagens com Redes Neurais Convolucionais
-
-Tecnologias: TensorFlow, Keras, CNN, Data Augmentation
-Descrição: Implementação de uma CNN para classificação de imagens do dataset CIFAR-10 com 88% de precisão.
-🔗 Ver Repositório | 🚀 Demo Online
-
-3. 🤖 Chatbot Inteligente com RAG e LLMs
-
-Tecnologias: LangChain, OpenAI API, FAISS, FastAPI
-Descrição: Chatbot com Retrieval-Augmented Generation para responder perguntas baseadas em documentos específicos.
-🔗 Ver Repositório | 💬 Testar Chatbot
-
-4. ⚡ Pipeline MLOps para Deploy Automatizado
-
-Tecnologias: Docker, FastAPI, MLflow, GitHub Actions
-Descrição: Pipeline completo de MLOps para treinamento, versionamento e deploy automatizado de modelos de ML.
-🔗 Ver Repositório | 📊 Dashboard
-
----
 
 🎓 Educação & Certificações
 
 🎓 Formação Acadêmica
 
 · Bacharelado em Engenharia da Computação
-    Centro Universitário Farnetro | 8º Período | 2022 - 2025
-  · Foco em: Inteligência Artificial, Machine Learning, Sistemas Embarcados
+    Centro Universitário Farnetro | 8º Período | 2022 - 2026
+  · Foco em: Inteligência Artificial, Machine Learning, Visão Computacional, PLN e Agentes de IA
 
 📜 Certificações
 
 Certificação Instituição Ano Status
 Projetos Criativos com Robótica EMBRAPII/AKCIT 2025 ✅ Concluído
-Machine Learning Specialization Coursera/DeepLearning.AI 2024 🎯 Em andamento
-AWS Cloud Practitioner Amazon Web Services 2024 📚 Em preparação
-TensorFlow Developer Certificate Google 2024 📚 Em preparação
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaugustoeng&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaugustoeng&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroaugustoeng&theme=radical" alt="GitHub Streak" />
-</p>
 
 🌟 Interesses & Objetivos
 

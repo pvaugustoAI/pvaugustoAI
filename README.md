@@ -3,18 +3,12 @@
 # 👋 Olá, me chamo Pedro Augusto!  
 
 ## 🔹 Áreas de Atuação
-Machine Learning • Computer Vision • Robotics • Data Science
+Machine Learning • Computer Vision • Data Science • Data Analytics • AI Engineer
 
 ## 🔹 Linguagens & Ferramentas Principais
-Python • R • C • C++ • Java • JavaScript • Julia • MATLAB  
+Python • R • C++ • Java • JavaScript • Julia • MATLAB  
 TensorFlow • PyTorch • Keras • Pandas • NumPy • OpenCV • Docker • Git  
 
-## 🔹 Hardware & IoT
-Arduino • Raspberry Pi  
-
-</p>
-
----
 
 ## 🔹 Tecnologias
 <p align="center">
@@ -22,7 +16,6 @@ Arduino • Raspberry Pi
 <!-- Linguagens -->
 <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img alt="R" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-<img alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -40,12 +33,6 @@ Arduino • Raspberry Pi
 <!-- Docker + Git -->
 <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-<!-- Hardware -->
-<img alt="Arduino" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-<img alt="Raspberry Pi" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
-
-</p>
 
 ---
 

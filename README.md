@@ -35,7 +35,7 @@ me = AI_Engineer()
 
 ---
 
-🔧 Stack Tecnológica Completa
+🔧 Áreas de Estudo e Aperfeiçoamento 
 
 🤖 Inteligência Artificial & Machine Learning
 

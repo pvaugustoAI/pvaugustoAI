@@ -94,7 +94,8 @@ me = AI_Engineer()
 
 📜 Certificações
 
-Certificação Instituição Ano Status
+Certificação/Instituição/Ano/Status
+
 Projetos Criativos com Robótica EMBRAPII/AKCIT 2025 ✅ Concluído
 
 🌟 Interesses & Objetivos

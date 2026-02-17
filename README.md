@@ -52,10 +52,7 @@ aplicando esses conceitos diretamente em **Sistemas Embarcados**.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/157753287)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugustoeng.github@gmail.com)
-
-<br>
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=pvaugustoAI&color=blue&style=flat-square&label=VISITAS+AO+PERFIL)
+![Visitas](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FpvaugustoAI%2FpvaugustoAI.json%3Fshow%3Dleft%26color%3Dgrey&style=for-the-badge)
 
 <br>
 

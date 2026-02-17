@@ -55,6 +55,10 @@ aplicando esses conceitos diretamente em **Sistemas Embarcados**.
 
 <br>
 
+![Contador de Visitas](https://komarev.com/ghpvc/?username=pvaugustoAI&color=blue&style=flat-square&label=VISITAS+AO+PERFIL)
+
+<br>
+
 > *"O importante não é saber tudo, mas nunca parar de aprender."* 💡
 
 </div>

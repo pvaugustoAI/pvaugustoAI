@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Augusto! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/hand-wave.gif" width="30px">
 
-### 🚀 Estudante de Ciência de Dados & IA | Python & R
+### 🚀 Estudante de Ciência de Dados & IA | Foco em Sistemas Embarcados (C/C++)
 📍 Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
 
 ---
@@ -8,9 +8,9 @@
 ## 🧠 Sobre mim:
 Estou iniciando minha jornada na área de dados e inteligência artificial do zero! 📊🧮
 
-Atualmente, meu foco é construir uma base sólida para me especializar em **Análise de Dados, Machine Learning, Visão Computacional e Ciência de Dados**. Como morador de Manaus, estou atento às oportunidades do Polo Industrial, mas também busco conexões para oportunidades remotas.
+Atualmente, meu foco é construir uma base sólida para me especializar em **Análise de Dados, Machine Learning e Visão Computacional**, aplicando esses conceitos em **Sistemas Embarcados**. Como morador de Manaus, estou atento às oportunidades do Polo Industrial, focando em como a IA pode otimizar o hardware.
 
-Para otimizar meus estudos, utilizo o ambiente **Linux (Ubuntu)** via Máquina Virtual, dominando a configuração de ferramentas e sistemas operacionais na prática. 🐧
+Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produtividade e **Linux (Ubuntu)** via Máquina Virtual para desenvolvimento e manipulação de sistemas operacionais na prática. 🐧🪟
 
 ---
 
@@ -18,10 +18,9 @@ Para otimizar meus estudos, utilizo o ambiente **Linux (Ubuntu)** via Máquina V
 
 | Categoria | Tecnologias / Frameworks / Bibliotecas |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| **Ambiente** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **IA & Dados** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 

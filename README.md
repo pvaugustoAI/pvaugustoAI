@@ -42,8 +42,7 @@ aplicando esses conceitos diretamente em **Sistemas Embarcados**.
 ---
 
 ## 📊 Estatísticas de Contribuição
-
-<img src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170em" />
+ src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170em" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
 
 ---

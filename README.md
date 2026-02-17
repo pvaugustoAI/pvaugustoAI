@@ -1,26 +1,27 @@
 # Olá, eu sou o Pedro Augusto! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/hand-wave.gif" width="30px">
 
-### 🚀 Estudante de Programação | Explorando Python & Dados
-📍 Manaus, Amazonas - Brasil 🌳
+### 🚀 Estudante de Ciência de Dados & IA | Python & R
+📍 Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
 
 ---
 
 ## 🧠 Sobre mim:
 Estou iniciando minha jornada na área de dados e inteligência artificial do zero! 📊🧮
 
-Atualmente, meu foco é construir uma base sólida em **Lógica de Programação** e **Python**, com o objetivo de me especializar em **Análise de Dados, Machine Learning, Visão Computacional e Ciência de Dados**. Como morador de Manaus, estou atento às oportunidades do nosso Polo Industrial e tecnológico, da mesma forma estou disponível para oportunidades home office.
+Atualmente, meu foco é construir uma base sólida para me especializar em **Análise de Dados, Machine Learning, Visão Computacional e Ciência de Dados**. Como morador de Manaus, estou atento às oportunidades do Polo Industrial, mas também busco conexões para oportunidades remotas.
 
-Para otimizar meus estudos, utilizo o ambiente **Linux (Ubuntu)** via Máquina Virtual, o que me permite aprender sobre a configuração de ferramentas e sistemas operacionais na prática. 🐧
+Para otimizar meus estudos, utilizo o ambiente **Linux (Ubuntu)** via Máquina Virtual, dominando a configuração de ferramentas e sistemas operacionais na prática. 🐧
 
 ---
 
-## 🛠️ O que estou aprendendo no momento:
+## 🛠️ Tecnologias & Ferramentas em Desenvolvimento:
 
-| Categoria | Tecnologias / Ferramentas |
+| Categoria | Tecnologias / Frameworks / Bibliotecas |
 | :--- | :--- |
-| **Linguagem Principal** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Ambiente de Estudo** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Próximos Objetivos** | ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Ambiente** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 

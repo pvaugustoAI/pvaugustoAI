@@ -5,10 +5,10 @@
 
 ---
 
-## 🧠 Sobre mim:
+## 🧠 Sobre mies:
 Estou iniciando minha jornada na área de dados e inteligência artificial do zero! 📊🧮
 
-Atualmente, meu foco é construir uma base sólida para me especializar em **Análise de Dados, Machine Learning e Visão Computacional**, aplicando esses conceitos em **Sistemas Embarcados**. Como morador de Manaus, estou atento às oportunidades do Polo Industrial, focando em como a IA pode otimizar o hardware.
+Atualmente, meu foco é construir uma base sólida para me especializar em **Análise de Dados, Machine Learning e Visão Computacional**, aplicando esses conceitos diretamente em **Sistemas Embarcados**. Como morador de Manaus, busco unir a inteligência de dados ao hardware para otimizar processos industriais.
 
 Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produtividade e **Linux (Ubuntu)** via Máquina Virtual para desenvolvimento e manipulação de sistemas operacionais na prática. 🐧🪟
 
@@ -19,8 +19,9 @@ Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produt
 | Categoria | Tecnologias / Frameworks / Bibliotecas |
 | :--- | :--- |
 | **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Sistemas Embarcados** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
 | **IA & Dados** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 

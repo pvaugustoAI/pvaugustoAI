@@ -1,30 +1,39 @@
+<div align="center">
+
 # Olá, eu sou o Pedro Augusto! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/hand-wave.gif" width="30px">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvaugustoAI&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="170px"/>
-</div>
+### 🚀 Estudante de Ciência de Dados & IA | Foco em Sistemas Embarcados (C/C++)
+📍 Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
 
 ---
 
-### 🚀 Sobre Mim
-Estou iniciando minha jornada na área de **Dados e Inteligência Artificial** do zero! Atualmente, meu foco é construir uma base sólida para me especializar em **Machine Learning e Visão Computacional**, aplicando esses conceitos diretamente em **Sistemas Embarcados**.
-
-* 📍 **Localização:** Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
-* 💻 **Ambiente:** Trabalho em ambiente híbrido (**Windows** & **Linux Ubuntu** via VM)
-* 🎯 **Objetivo:** Unir a inteligência de dados ao hardware para otimizar processos industriais.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvaugustoAI&layout=compact&langs_count=7&theme=dark"/>
 
 ---
 
-### 💼 Oportunidades de Interesse
-Atualmente busco atuar em cargos de:
-* 🎓 **Estágio:** Desenvolvimento de Software | Análise de Dados | Ciência de Dados.
-* 🚀 **Júnior:** Analista de Dados | Cientista de Dados | Desenvolvedor Python / Back-end.
-* 🛠️ **Engenharia:** Machine Learning | Visão Computacional | Sistemas Embarcados.
+## 🧠 Sobre mim
+
+Estou iniciando minha jornada na área de **Dados e Inteligência Artificial** do zero! 📊🧮  
+Meu foco é construir uma base sólida para me especializar em **Machine Learning e Visão Computacional**,  
+aplicando esses conceitos diretamente em **Sistemas Embarcados**.  
+Trabalho em ambiente híbrido, utilizando **Windows** e **Linux (Ubuntu)** via VM. 🐧🪟
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 💼 Oportunidades de Interesse
+
+**Estou disponível para as seguintes vagas:**
+
+🎓 **Estágio:** Desenvolvimento de Software | Análise de Dados | Ciência de Dados
+
+🚀 **Júnior:** Analista de Dados | Cientista de Dados | Desenvolvedor Python (Back-end)
+
+🛠️ **Engenharia:** Machine Learning | Visão Computacional | Sistemas Embarcados (Desenvolvedor)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 | Categoria | Stack Tecnológica |
 | :--- | :--- |
@@ -36,25 +45,19 @@ Atualmente busco atuar em cargos de:
 
 ---
 
-### 📈 Estatísticas de Contribuição
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
-</div>
+## 📊 Estatísticas de Contribuição
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
 
 ---
 
-### 📫 Conecte-se Comigo
-<div align="center">
-  <a href="https://www.linkedin.com/in/157753287" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pedroaugustoeng.github@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/157753287)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugustoeng.github@gmail.com)
 
 <br>
 
-<div align="center">
-  <i>"O importante não é saber tudo, mas nunca parar de aprender."</i> 💡
+> *"O importante não é saber tudo, mas nunca parar de aprender."* 💡
+
 </div>

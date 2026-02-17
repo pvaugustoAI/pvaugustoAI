@@ -1,22 +1,24 @@
 # Olá, eu sou o Pedro Augusto! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/hand-wave.gif" width="30px">
 
-### 🚀 Estudante de Ciência de Dados & IA | Foco em Sistemas Embarcados (C/C++)
-📍 Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvaugustoAI&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="170px"/>
+</div>
 
 ---
 
-## 🧠 Sobre mim:
-Estou iniciando minha jornada na área de dados e inteligência artificial do zero! 📊🧮
+### 🚀 Sobre Mim
+Estou iniciando minha jornada na área de **Dados e Inteligência Artificial** do zero! Atualmente, meu foco é construir uma base sólida para me especializar em **Machine Learning e Visão Computacional**, aplicando esses conceitos diretamente em **Sistemas Embarcados**.
 
-Atualmente, meu foco é construir uma base sólida para me especializar em **Análise de Dados, Machine Learning e Visão Computacional**, aplicando esses conceitos diretamente em **Sistemas Embarcados**. Como morador de Manaus, busco unir a inteligência de dados ao hardware para desenvolver soluções de ponta.
-
-Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produtividade e **Linux (Ubuntu)** via Máquina Virtual para desenvolvimento e manipulação de sistemas operacionais na prática. 🐧🪟
+* 📍 **Localização:** Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
+* 💻 **Ambiente:** Trabalho em ambiente híbrido (**Windows** & **Linux Ubuntu** via VM)
+* 🎯 **Objetivo:** Unir a inteligência de dados ao hardware para otimizar processos industriais.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas em Desenvolvimento:
+### 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Tecnologias / Frameworks / Bibliotecas |
+| Categoria | Stack Tecnológica |
 | :--- | :--- |
 | **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Embarcados** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
@@ -26,24 +28,25 @@ Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produt
 
 ---
 
+### 📈 Estatísticas de Contribuição
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
+</div>
 
-## 📊 Meu Progresso no GitHub
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvaugustoAI&layout=compact&langs_count=7&theme=dark"/>
+### 📫 Conecte-se Comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/157753287" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedroaugustoeng.github@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
-
-## 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/157753287)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugustoeng.github@gmail.com)
-
-<br>
-
-> *"O importante não é saber tudo, mas nunca parar de aprender."* 💡
-
+<div align="center">
+  <i>"O importante não é saber tudo, mas nunca parar de aprender."</i> 💡
 </div>

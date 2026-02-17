@@ -16,6 +16,14 @@ Estou iniciando minha jornada na área de **Dados e Inteligência Artificial** d
 
 ---
 
+### 💼 Oportunidades de Interesse
+Atualmente busco atuar em cargos de:
+* 🎓 **Estágio:** Desenvolvimento de Software | Análise de Dados | Ciência de Dados.
+* 🚀 **Júnior:** Analista de Dados | Cientista de Dados | Desenvolvedor Python / Back-end.
+* 🛠️ **Engenharia:** Machine Learning | Visão Computacional | Sistemas Embarcados.
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 | Categoria | Stack Tecnológica |

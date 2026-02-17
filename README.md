@@ -28,7 +28,7 @@ aplicando esses conceitos diretamente em **Sistemas Embarcados**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas que Estou Estudando e Aprendendo!
 
 | Categoria | Stack Tecnológica |
 | :--- | :--- |

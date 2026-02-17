@@ -7,11 +7,6 @@
 
 ---
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvaugustoAI&layout=compact&langs_count=7&theme=dark"/>
-
----
-
 ## 🧠 Sobre mim
 
 Estou iniciando minha jornada na área de **Dados e Inteligência Artificial** do zero! 📊🧮  
@@ -41,12 +36,14 @@ aplicando esses conceitos diretamente em **Sistemas Embarcados**.
 | **📟 Embarcados** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
 | **👁️ IA & Visão** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 | **🧪 Data Science** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **🔧 Versionamento**| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | **🖥️ Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
 ## 📊 Estatísticas de Contribuição
 
+<img src="https://github-readme-stats.vercel.app/api?username=pvaugustoAI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170em" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
 
 ---

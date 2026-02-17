@@ -1,9 +1,9 @@
 <div align="center">
 
-# Olá, eu sou o Pedro Augusto! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/hand-wave.gif" width="30px">
+# 👋 Olá, eu sou o Pedro Augusto!
 
 ### 🚀 Estudante de Ciência de Dados & IA | Foco em Sistemas Embarcados (C/C++)
-📍 Manaus, Amazonas - Brasil 🌳 (Disponível para Home Office)
+📍 Manaus, Amazonas - Brasil 🌳 | 🏠 Disponível para Home Office
 
 ---
 
@@ -15,15 +15,15 @@
 ## 🧠 Sobre mim
 
 Estou iniciando minha jornada na área de **Dados e Inteligência Artificial** do zero! 📊🧮  
-Meu foco é construir uma base sólida para me especializar em **Machine Learning e Visão Computacional**,  
+Meu foco atual é construir uma base sólida em **Machine Learning e Visão Computacional**,  
 aplicando esses conceitos diretamente em **Sistemas Embarcados**.  
-Trabalho em ambiente híbrido, utilizando **Windows** e **Linux (Ubuntu)** via VM. 🐧🪟
+💻 Trabalho em ambiente híbrido, utilizando **Windows** e **Linux (Ubuntu)** via VM. 🐧🪟
 
 ---
 
 ## 💼 Oportunidades de Interesse
 
-**Estou disponível para as seguintes vagas:**
+**Estou disponível para as seguintes posições:**
 
 🎓 **Estágio:** Desenvolvimento de Software | Análise de Dados | Ciência de Dados
 
@@ -37,11 +37,11 @@ Trabalho em ambiente híbrido, utilizando **Windows** e **Linux (Ubuntu)** via V
 
 | Categoria | Stack Tecnológica |
 | :--- | :--- |
-| **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Embarcados** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
-| **IA & Visão** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| **Data Science** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **💻 Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **📟 Embarcados** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
+| **👁️ IA & Visão** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **🧪 Data Science** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **🖥️ Sistemas** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 

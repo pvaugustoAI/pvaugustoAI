@@ -26,6 +26,8 @@ Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produt
 
 ---
 
+---
+
 ## 📊 Meu Progresso no GitHub
 
 <p align="center">
@@ -33,8 +35,11 @@ Trabalho em ambiente híbrido, utilizando **Windows** para ferramentas de produt
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvaugustoAI&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvaugustoAI&theme=dark" alt="Streak Stats" />
+</p>
 
+---
 ## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/157753287)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioredes62@gmail.com)
